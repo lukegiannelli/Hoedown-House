@@ -67,19 +67,28 @@
 "n": "Wizard's Sports Cafe",
 "c": "hall",
 "city": "Richardson",
-"a": "747 S Central Expy"
+"a": "747 S Central Expy",
+"lat": 32.94327,
+"lon": -96.74235,
+"geo": "place"
 },
 {
 "n": "CK Billiards",
 "c": "hall",
 "city": "Dallas",
-"a": "9247 Skillman St"
+"a": "9247 Skillman St",
+"lat": 32.90333,
+"lon": -96.71383,
+"geo": "place"
 },
 {
 "n": "Sherlock's Baker St. Pub",
 "c": "bar",
 "city": "Arlington",
-"a": "254 Lincoln Square"
+"a": "254 Lincoln Square",
+"lat": 32.75838,
+"lon": -97.09963,
+"geo": "place"
 }
 ]
 }
