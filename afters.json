@@ -9,7 +9,10 @@
 "t": [
 "All-you-can-eat",
 "Carrollton Koreatown"
-]
+],
+"lat": 32.97992,
+"lon": -96.90949,
+"geo": "shop"
 },
 {
 "n": "Koryo Korean BBQ",
@@ -19,7 +22,10 @@
 "t": [
 "Charcoal grills",
 "Royal Ln Koreatown"
-]
+],
+"lat": 32.89616,
+"lon": -96.89942,
+"geo": "place"
 },
 {
 "n": "City Night KTV",
@@ -29,7 +35,10 @@
 "t": [
 "20 private rooms",
 "Half off Tue & Wed"
-]
+],
+"lat": 32.9801,
+"lon": -96.90786,
+"geo": "building"
 },
 {
 "n": "Round-Up Saloon",
@@ -41,7 +50,10 @@
 "Karaoke in the parlor",
 "LGBTQ+ landmark"
 ],
-"h": "Mon–Fri 3 PM–2 AM, Sat–Sun noon–2 AM"
+"h": "Mon–Fri 3 PM–2 AM, Sat–Sun noon–2 AM",
+"lat": 32.81061,
+"lon": -96.81038,
+"geo": "amenity"
 },
 {
 "n": "Billy Bob's Texas",
@@ -52,7 +64,10 @@
 "World's largest honky-tonk",
 "Live bull riding",
 "Stockyards"
-]
+],
+"lat": 32.79088,
+"lon": -97.34777,
+"geo": "amenity"
 },
 {
 "n": "Electric Cowboy Lewisville",
@@ -61,7 +76,10 @@
 "a": "1165 S Stemmons Fwy",
 "t": [
 "Two-step & line dance lessons"
-]
+],
+"lat": 33.03062,
+"lon": -96.99544,
+"geo": "shop"
 },
 {
 "n": "Electric Cowboy Fort Worth",
@@ -70,7 +88,10 @@
 "a": "8740 Camp Bowie W Blvd",
 "t": [
 "Two-step & line dance lessons"
-]
+],
+"lat": 32.72454,
+"lon": -97.46854,
+"geo": "place"
 },
 {
 "n": "Stagecoach Ballroom",
@@ -79,7 +100,10 @@
 "a": "2516 E Belknap St",
 "t": [
 "One of the oldest dance halls around"
-]
+],
+"lat": 32.76904,
+"lon": -97.30949,
+"geo": "amenity"
 },
 {
 "n": "Adair's Saloon",
@@ -88,7 +112,10 @@
 "a": "2624 Commerce St",
 "t": [
 "Deep Ellum honky-tonk dive"
-]
+],
+"lat": 32.78256,
+"lon": -96.78509,
+"geo": "amenity"
 },
 {
 "n": "Cidercade Dallas",
@@ -99,7 +126,10 @@
 "140+ free-play games",
 "Cider on tap"
 ],
-"h": "10 AM–midnight, to 1 AM Fri–Sat; 21+ after 8 PM"
+"h": "10 AM–midnight, to 1 AM Fri–Sat; 21+ after 8 PM",
+"lat": 32.80588,
+"lon": -96.84665,
+"geo": "building"
 },
 {
 "n": "Cidercade Fort Worth",
@@ -109,7 +139,10 @@
 "t": [
 "275+ free-play games"
 ],
-"h": "10 AM–midnight; 18+ after 9 PM"
+"h": "10 AM–midnight; 18+ after 9 PM",
+"lat": 32.70726,
+"lon": -97.34724,
+"geo": "leisure"
 },
 {
 "n": "Barcadia",
@@ -118,7 +151,10 @@
 "a": "1917 N Henderson Ave",
 "t": [
 "Bar with arcade games"
-]
+],
+"lat": 32.81166,
+"lon": -96.77522,
+"geo": "amenity"
 },
 {
 "n": "Free Play Richardson",
@@ -127,7 +163,10 @@
 "a": "1730 E Belt Line Rd",
 "t": [
 "Retro arcade bar"
-]
+],
+"lat": 32.94385,
+"lon": -96.69332,
+"geo": "leisure"
 },
 {
 "n": "Bowl & Barrel",
@@ -137,7 +176,10 @@
 "t": [
 "Boutique lanes",
 "Shops at Park Lane"
-]
+],
+"lat": 32.93528,
+"lon": -96.52672,
+"geo": "place"
 },
 {
 "n": "Lucky Strike Addison",
@@ -146,7 +188,10 @@
 "a": "3805 Belt Line Rd",
 "t": [
 "Lanes + bar"
-]
+],
+"lat": 32.95507,
+"lon": -96.85044,
+"geo": "leisure"
 },
 {
 "n": "Pinstack Las Colinas",
@@ -155,7 +200,10 @@
 "a": "2750 W Lyndon B Johnson Fwy",
 "t": [
 "Bowling, bumper cars, climbing"
-]
+],
+"lat": 32.9136,
+"lon": -96.9469,
+"geo": "secondary"
 },
 {
 "n": "Pinstack Plano",
@@ -164,7 +212,10 @@
 "a": "6205 Dallas Pkwy",
 "t": [
 "Bowling, bumper cars, climbing"
-]
+],
+"lat": 33.05736,
+"lon": -96.83202,
+"geo": "leisure"
 },
 {
 "n": "Bowlounge",
@@ -173,7 +224,10 @@
 "a": "167 Turtle Creek Blvd",
 "t": [
 "Retro lanes, pool, ping pong"
-]
+],
+"lat": 32.79361,
+"lon": -96.82742,
+"geo": "leisure"
 },
 {
 "n": "King Spa & Sauna",
@@ -184,7 +238,10 @@
 "Korean jjimjilbang",
 "Saunas, pools, food court"
 ],
-"h": "Open 24 hours"
+"h": "Open 24 hours",
+"lat": 32.89363,
+"lon": -96.90596,
+"geo": "leisure"
 },
 {
 "n": "The Balcony Club",
@@ -194,7 +251,10 @@
 "t": [
 "Live jazz nightly",
 "Above the Lakewood Theater"
-]
+],
+"lat": 32.81227,
+"lon": -96.75216,
+"geo": "place"
 },
 {
 "n": "Revelers Hall",
@@ -204,7 +264,10 @@
 "t": [
 "1920s New Orleans vibe",
 "Bishop Arts"
-]
+],
+"lat": 32.74863,
+"lon": -96.8282,
+"geo": "shop"
 },
 {
 "n": "Scat Jazz Lounge",
@@ -214,7 +277,10 @@
 "t": [
 "Basement of the Woolworth Building",
 "Straight-ahead jazz"
-]
+],
+"lat": 32.75433,
+"lon": -97.33124,
+"geo": "place"
 },
 {
 "n": "Tucker's Blues",
@@ -224,7 +290,10 @@
 "t": [
 "Live blues",
 "Deep Ellum"
-]
+],
+"lat": 32.77722,
+"lon": -96.81207,
+"geo": "secondary"
 },
 {
 "n": "HG Sply Co",
@@ -233,7 +302,10 @@
 "a": "2008 Greenville Ave",
 "t": [
 "Lower Greenville rooftop"
-]
+],
+"lat": 32.81423,
+"lon": -96.76996,
+"geo": "place"
 },
 {
 "n": "The Quarter Bar",
@@ -242,7 +314,10 @@
 "a": "3301 McKinney Ave",
 "t": [
 "Uptown rooftop with pool table"
-]
+],
+"lat": 32.80441,
+"lon": -96.79942,
+"geo": "place"
 },
 {
 "n": "Sky Blossom Rooftop",
@@ -251,7 +326,10 @@
 "a": "1514 Elm St",
 "t": [
 "Downtown rooftop"
-]
+],
+"lat": 32.78125,
+"lon": -96.79887,
+"geo": "amenity"
 },
 {
 "n": "Gallery Rooftop Lounge at Canvas Hotel",
@@ -260,7 +338,10 @@
 "a": "1325 Botham Jean Blvd",
 "t": [
 "Downtown skyline view"
-]
+],
+"lat": 32.76802,
+"lon": -96.79652,
+"geo": "building"
 },
 {
 "n": "RH Rooftop Restaurant",
@@ -269,7 +350,10 @@
 "a": "3133 Knox St",
 "t": [
 "Knox Street rooftop dining"
-]
+],
+"lat": 32.82278,
+"lon": -96.7881,
+"geo": "place"
 },
 {
 "n": "Tandy Hills Natural Area",
@@ -279,7 +363,10 @@
 "t": [
 "Free star parties 2nd Saturday, Feb–Nov",
 "Fort Worth Astronomical Society"
-]
+],
+"lat": 32.7451,
+"lon": -97.27624,
+"geo": "place"
 },
 {
 "n": "Cedar Hill State Park",
@@ -288,7 +375,10 @@
 "t": [
 "Darker skies on Joe Pool Lake",
 "Park fees apply"
-]
+],
+"lat": 32.60964,
+"lon": -96.99212,
+"geo": "park"
 },
 {
 "n": "Cooper Lake State Park",
@@ -297,7 +387,10 @@
 "t": [
 "Darkest sky option near DFW",
 "About 1.5 hrs out"
-]
+],
+"lat": 33.34688,
+"lon": -95.67169,
+"geo": "park"
 },
 {
 "n": "Lynn Creek Park",
@@ -307,7 +400,10 @@
 "t": [
 "Sandy swim beach on Joe Pool Lake",
 "Entry fee"
-]
+],
+"lat": 32.62967,
+"lon": -97.03937,
+"geo": "leisure"
 },
 {
 "n": "Hidden Cove Park",
@@ -333,7 +429,10 @@
 "t": [
 "Austin-style beer garden",
 "50 taps"
-]
+],
+"lat": 32.80081,
+"lon": -96.80753,
+"geo": "amenity"
 },
 {
 "n": "Truck Yard",
@@ -342,7 +441,10 @@
 "a": "5624 Sears St",
 "t": [
 "Backyard bar, food trucks, live music"
-]
+],
+"lat": 32.81436,
+"lon": -96.77135,
+"geo": "amenity"
 },
 {
 "n": "Fuel City Tacos",
@@ -353,7 +455,10 @@
 "Cash only",
 "Longhorns out back"
 ],
-"h": "Open 24 hours"
+"h": "Open 24 hours",
+"lat": 32.76723,
+"lon": -96.80785,
+"geo": "amenity"
 }
 ]
 }
