@@ -1,3 +1,85 @@
 {
-"places": []
+"places": [
+{
+"n": "The Billiard Den",
+"c": "hall",
+"city": "Richardson",
+"a": "580 W Arapaho Rd",
+"lat": 32.96455,
+"lon": -96.73774,
+"geo": "osm"
+},
+{
+"n": "J J Dakota's Billiards",
+"c": "hall",
+"city": "Fort Worth",
+"a": "9112 Camp Bowie W Blvd",
+"lat": 32.72537,
+"lon": -97.47693,
+"geo": "osm"
+},
+{
+"n": "Dallasite Billiards",
+"c": "hall",
+"city": "Dallas",
+"a": "4820 Bryan St",
+"lat": 32.80352,
+"lon": -96.77346,
+"geo": "osm"
+},
+{
+"n": "Rack Daddy's",
+"c": "hall",
+"city": "Dallas",
+"a": "17509 Coit Rd",
+"lat": 32.98978,
+"lon": -96.7686,
+"geo": "osm"
+},
+{
+"n": "Longhorn Icehouse",
+"c": "bar",
+"city": "Dallas",
+"a": "1901 W Northwest Hwy",
+"lat": 32.86945,
+"lon": -96.91264,
+"geo": "osm"
+},
+{
+"n": "Legends Pool Hall",
+"c": "hall",
+"city": "Mineral Wells",
+"a": "302 SE 1st Ave",
+"lat": 32.8076,
+"lon": -98.11228,
+"geo": "osm"
+},
+{
+"n": "Eagle's Point Bar & Grill",
+"c": "bar",
+"city": "Burleson",
+"a": "200 S Main St",
+"lat": 32.54105,
+"lon": -97.32112,
+"geo": "osm"
+},
+{
+"n": "Wizard's Sports Cafe",
+"c": "hall",
+"city": "Richardson",
+"a": "747 S Central Expy"
+},
+{
+"n": "CK Billiards",
+"c": "hall",
+"city": "Dallas",
+"a": "9247 Skillman St"
+},
+{
+"n": "Sherlock's Baker St. Pub",
+"c": "bar",
+"city": "Arlington",
+"a": "254 Lincoln Square"
+}
+]
 }
