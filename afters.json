@@ -1,0 +1,359 @@
+{
+"note": "Afters for the Night Card (DFW). Hours listed only where a source stated them; always check before you go.",
+"places": [
+{
+"n": "Gen Korean BBQ House",
+"c": "kbbq",
+"city": "Carrollton",
+"a": "2540 Old Denton Rd",
+"t": [
+"All-you-can-eat",
+"Carrollton Koreatown"
+]
+},
+{
+"n": "Koryo Korean BBQ",
+"c": "kbbq",
+"city": "Dallas",
+"a": "11407 Emerald St",
+"t": [
+"Charcoal grills",
+"Royal Ln Koreatown"
+]
+},
+{
+"n": "City Night KTV",
+"c": "karaoke",
+"city": "Carrollton",
+"a": "2528 Old Denton Rd",
+"t": [
+"20 private rooms",
+"Half off Tue & Wed"
+]
+},
+{
+"n": "Round-Up Saloon",
+"c": "honky",
+"city": "Dallas",
+"a": "3912 Cedar Springs Rd",
+"t": [
+"Two-step & line dance",
+"Karaoke in the parlor",
+"LGBTQ+ landmark"
+],
+"h": "Mon–Fri 3 PM–2 AM, Sat–Sun noon–2 AM"
+},
+{
+"n": "Billy Bob's Texas",
+"c": "honky",
+"city": "Fort Worth",
+"a": "2520 Rodeo Plaza",
+"t": [
+"World's largest honky-tonk",
+"Live bull riding",
+"Stockyards"
+]
+},
+{
+"n": "Electric Cowboy Lewisville",
+"c": "honky",
+"city": "Lewisville",
+"a": "1165 S Stemmons Fwy",
+"t": [
+"Two-step & line dance lessons"
+]
+},
+{
+"n": "Electric Cowboy Fort Worth",
+"c": "honky",
+"city": "Fort Worth",
+"a": "8740 Camp Bowie W Blvd",
+"t": [
+"Two-step & line dance lessons"
+]
+},
+{
+"n": "Stagecoach Ballroom",
+"c": "honky",
+"city": "Fort Worth",
+"a": "2516 E Belknap St",
+"t": [
+"One of the oldest dance halls around"
+]
+},
+{
+"n": "Adair's Saloon",
+"c": "honky",
+"city": "Dallas",
+"a": "2624 Commerce St",
+"t": [
+"Deep Ellum honky-tonk dive"
+]
+},
+{
+"n": "Cidercade Dallas",
+"c": "arcade",
+"city": "Dallas",
+"a": "2777 Irving Blvd",
+"t": [
+"140+ free-play games",
+"Cider on tap"
+],
+"h": "10 AM–midnight, to 1 AM Fri–Sat; 21+ after 8 PM"
+},
+{
+"n": "Cidercade Fort Worth",
+"c": "arcade",
+"city": "Fort Worth",
+"a": "1813 W Bowie St",
+"t": [
+"275+ free-play games"
+],
+"h": "10 AM–midnight; 18+ after 9 PM"
+},
+{
+"n": "Barcadia",
+"c": "arcade",
+"city": "Dallas",
+"a": "1917 N Henderson Ave",
+"t": [
+"Bar with arcade games"
+]
+},
+{
+"n": "Free Play Richardson",
+"c": "arcade",
+"city": "Richardson",
+"a": "1730 E Belt Line Rd",
+"t": [
+"Retro arcade bar"
+]
+},
+{
+"n": "Bowl & Barrel",
+"c": "bowl",
+"city": "Dallas",
+"a": "8084 Park Ln",
+"t": [
+"Boutique lanes",
+"Shops at Park Lane"
+]
+},
+{
+"n": "Lucky Strike Addison",
+"c": "bowl",
+"city": "Addison",
+"a": "3805 Belt Line Rd",
+"t": [
+"Lanes + bar"
+]
+},
+{
+"n": "Pinstack Las Colinas",
+"c": "bowl",
+"city": "Irving",
+"a": "2750 W Lyndon B Johnson Fwy",
+"t": [
+"Bowling, bumper cars, climbing"
+]
+},
+{
+"n": "Pinstack Plano",
+"c": "bowl",
+"city": "Plano",
+"a": "6205 Dallas Pkwy",
+"t": [
+"Bowling, bumper cars, climbing"
+]
+},
+{
+"n": "Bowlounge",
+"c": "bowl",
+"city": "Dallas",
+"a": "167 Turtle Creek Blvd",
+"t": [
+"Retro lanes, pool, ping pong"
+]
+},
+{
+"n": "King Spa & Sauna",
+"c": "spa",
+"city": "Dallas",
+"a": "2154 Royal Ln",
+"t": [
+"Korean jjimjilbang",
+"Saunas, pools, food court"
+],
+"h": "Open 24 hours"
+},
+{
+"n": "The Balcony Club",
+"c": "jazz",
+"city": "Dallas",
+"a": "1825 Abrams Rd",
+"t": [
+"Live jazz nightly",
+"Above the Lakewood Theater"
+]
+},
+{
+"n": "Revelers Hall",
+"c": "jazz",
+"city": "Dallas",
+"a": "412 N Bishop Ave",
+"t": [
+"1920s New Orleans vibe",
+"Bishop Arts"
+]
+},
+{
+"n": "Scat Jazz Lounge",
+"c": "jazz",
+"city": "Fort Worth",
+"a": "111 W 4th St",
+"t": [
+"Basement of the Woolworth Building",
+"Straight-ahead jazz"
+]
+},
+{
+"n": "Tucker's Blues",
+"c": "jazz",
+"city": "Dallas",
+"a": "2617 Commerce St",
+"t": [
+"Live blues",
+"Deep Ellum"
+]
+},
+{
+"n": "HG Sply Co",
+"c": "roof",
+"city": "Dallas",
+"a": "2008 Greenville Ave",
+"t": [
+"Lower Greenville rooftop"
+]
+},
+{
+"n": "The Quarter Bar",
+"c": "roof",
+"city": "Dallas",
+"a": "3301 McKinney Ave",
+"t": [
+"Uptown rooftop with pool table"
+]
+},
+{
+"n": "Sky Blossom Rooftop",
+"c": "roof",
+"city": "Dallas",
+"a": "1514 Elm St",
+"t": [
+"Downtown rooftop"
+]
+},
+{
+"n": "Gallery Rooftop Lounge at Canvas Hotel",
+"c": "roof",
+"city": "Dallas",
+"a": "1325 Botham Jean Blvd",
+"t": [
+"Downtown skyline view"
+]
+},
+{
+"n": "RH Rooftop Restaurant",
+"c": "roof",
+"city": "Dallas",
+"a": "3133 Knox St",
+"t": [
+"Knox Street rooftop dining"
+]
+},
+{
+"n": "Tandy Hills Natural Area",
+"c": "stars",
+"city": "Fort Worth",
+"a": "3400 View St",
+"t": [
+"Free star parties 2nd Saturday, Feb–Nov",
+"Fort Worth Astronomical Society"
+]
+},
+{
+"n": "Cedar Hill State Park",
+"c": "stars",
+"city": "Cedar Hill",
+"t": [
+"Darker skies on Joe Pool Lake",
+"Park fees apply"
+]
+},
+{
+"n": "Cooper Lake State Park",
+"c": "stars",
+"city": "Cooper",
+"t": [
+"Darkest sky option near DFW",
+"About 1.5 hrs out"
+]
+},
+{
+"n": "Lynn Creek Park",
+"c": "beach",
+"city": "Grand Prairie",
+"a": "5700 Lake Ridge Pkwy",
+"t": [
+"Sandy swim beach on Joe Pool Lake",
+"Entry fee"
+]
+},
+{
+"n": "Hidden Cove Park",
+"c": "beach",
+"city": "Frisco",
+"t": [
+"Lewisville Lake beach & marina"
+]
+},
+{
+"n": "Ray Roberts Lake State Park Isle du Bois",
+"c": "beach",
+"city": "Pilot Point",
+"t": [
+"Swim beach, trails"
+]
+},
+{
+"n": "Katy Trail Ice House",
+"c": "ice",
+"city": "Dallas",
+"a": "3127 Routh St",
+"t": [
+"Austin-style beer garden",
+"50 taps"
+]
+},
+{
+"n": "Truck Yard",
+"c": "ice",
+"city": "Dallas",
+"a": "5624 Sears St",
+"t": [
+"Backyard bar, food trucks, live music"
+]
+},
+{
+"n": "Fuel City Tacos",
+"c": "late",
+"city": "Dallas",
+"a": "801 S Riverfront Blvd",
+"t": [
+"Cash only",
+"Longhorns out back"
+],
+"h": "Open 24 hours"
+}
+]
+}

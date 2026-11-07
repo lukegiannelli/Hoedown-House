@@ -1,0 +1,32 @@
+name: Geocode pool halls
+# Fills lat/lon in pool.json and in events.json entries seeded with an "addr", from OpenStreetMap (Nominatim).
+# Run by hand, by the daily refresh, or when pool.json changes.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [pool.json, afters.json]
+permissions:
+  contents: write
+concurrency: { group: events-json, cancel-in-progress: false }   # same group as the Ticketmaster job
+jobs:
+  geocode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - run: |
+          git config user.name "show-shack-bot"
+          git config user.email "show-shack-bot@users.noreply.github.com"
+          # events.json is one long line, so git can't merge two edits to it. Instead: start from the
+          # latest main, redo our small edit, push; if someone pushed meanwhile, start over.
+          for i in 1 2 3 4; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            python3 scripts/geocode_pool.py pool.json events.json afters.json
+            git diff --quiet pool.json events.json afters.json && { echo "Nothing new."; exit 0; }
+            git add pool.json events.json afters.json
+            git commit -q -m "Coordinates from OpenStreetMap (pool halls / seeded events)"
+            git push origin HEAD:main && exit 0
+            sleep 10
+          done
+          exit 1
